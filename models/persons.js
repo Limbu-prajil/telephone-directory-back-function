@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const url = 'mongodb+srv://limbuprajil123:asdfghjkl@cluster1.mj0tppb.mongodb.net/telephone-directory'
+const url = 'mongodb+srv://limbuprajil123:lkjhgfdsa@cluster1.pqkjfvj.mongodb.net/telephone-directory'
 
 mongoose.connect(url)
             .then(()=>{
